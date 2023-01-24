@@ -4457,20 +4457,20 @@
 			"geometry":{
 				"type":"Point",
 				"coordinates":[
-					-102.0152817,
-					20.3529503
+					-102.0440132,
+					20.3518933
 				]
 			},
 			"type":"Feature",
 			"properties":{
-				"distribuidor":"Grupo Peber- Álvaro Pérez Aguilar",
-				"direccion":"Av Padre Hidalgo 1054A, Sta. Ana Pacueco Pénjamo Guanajuato 36914",
+				"distribuidor":"Álvaro Pérez Aguilar",
+				"direccion":"Blvd Lazaro Cardenas 1646 Col Santa Fe La piedad Michoacan 59330",
 				"category":"patisserie",
-				"hours":"L - V 09:00 am - 06:00 pm S 09:00 - 01:00 pm",
-				"description":"Tableros, Metales, Durock, Securock, Metales, Plafones, Suspension, Yeso, Adhesivos, Otros",
-				"name":"Sucursal Guanajuato",
-				"phone":"(443) 169-9363",
-				"cp":"Pénjamo",
+				"hours":"L - V 09:00 am - 06:00 pm S 09:00 - 02:00 pm",
+				"description":"Tableros, Metales, Durock, Plafones, Suspension, Adhesivos, Otros",
+				"name":"Sucursal La Piedad",
+				"phone":"(352) 125-5108",
+				"cp":"La Piedad",
 				"storeid":"261"
 			}
 		},
