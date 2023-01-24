@@ -1,0 +1,2714 @@
+{
+	"type":"FeatureCollection",
+	"features":[
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-90.532595561927,
+					19.8515538486375
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Román Piña Chan 28 esquina con Área de Avenida María Lavalle Urbina Sector Fundadores, Área Ah, 24028 Campeche",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Adhesivos, Tablaroca, Durock, Plafón, Suspensión",
+				"name":"Sucursal Campeche",
+				"phone":"(800) 004 6633",
+				"cp":"Campeche ",
+				"storeid":"1"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-91.8059023153414,
+					18.6526873952968
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Corregidora #24 Col. Aviación Ciudad del Carmen, Campeche CP.24119",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Adhesivos, Tablaroca, Durock, Plafón, Suspensión",
+				"name":"Sucursal Ciudad del Carmen",
+				"phone":"(938) 131 3600",
+				"cp":"Ciudad del Carmen",
+				"storeid":"2"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-92.9378974878842,
+					17.9792234359233
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Quintín Arauz #505Col. 1ero de Mayo, Villahermosa, Tabasco CP.86100",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 09:00 p.m",
+				"description":"Adhesivos, Tablaroca, Durock, Plafón, Suspensión",
+				"name":"Sucursal Villahermosa",
+				"phone":"(993) 313 6900",
+				"cp":"Villahermosa",
+				"storeid":"3"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-92.937983318567,
+					14.87702281
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Carretera a Puerto Madero Km 2.100entre Fracc. Tulipanes y Templo la Luz del Mundo, Tapachula, Chiapas CP.30700",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Adhesivos, Tablaroca, Durock, Plafón, Suspensión",
+				"name":"Sucursal Tapachula",
+				"phone":"(962) 620 1900",
+				"cp":"Tapachula",
+				"storeid":"4"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-93.1453842437236,
+					16.7470958830614
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Libramiento Sur Poniente #2991Col. Terán, Tuxtla Gutiérrez, Chiapas CP.29060",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Adhesivos, Tablaroca, Durock, Plafón, Suspensión",
+				"name":"Sucursal Tuxtla Gutiérrez",
+				"phone":"(961) 617 1200",
+				"cp":"Tuxtla Gutiérrez",
+				"storeid":"5"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-96.7091968302259,
+					17.0411616706459
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Diagonal Av. Universidad #140Col. Candiani, Oaxaca de Juárez, Oaxaca CP.68130",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Adhesivos, Tablaroca, Durock, Plafón, Suspensión",
+				"name":"Sucursal Oaxaca",
+				"phone":"(951) 501 8600",
+				"cp":"Oaxaca de Juárez",
+				"storeid":"6"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-110.338753252843,
+					24.1182004076516
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvd. Agustín Olachea esq. LibramientoCol. El Zacatal, La Paz, Baja california sur CP.23090",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 08:00 p.m",
+				"description":"Adhesivos, Tablaroca, Durock, Plafón, Suspensión",
+				"name":"Sucursal La Paz",
+				"phone":"(612) 175 0600",
+				"cp":"La Paz",
+				"storeid":"7"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-109.86644214178,
+					22.9085297892784
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Carretera Transpeninsular Benito Juárez Km 6.5 Col. Cabo Bello, Los Cabos, Baja california sur CP.23410",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 08:00 p.m",
+				"description":"Adhesivos, Tablaroca, Durock, Plafón, Suspensión",
+				"name":"Sucursal Los Cabos",
+				"phone":"624) 105 8600",
+				"cp":"Los Cabos",
+				"storeid":"8"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-89.6594364608509,
+					20.9881716948133
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Canek #250Col. Jacinto Canek , Mérida, Yucatán CP.97227",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Adhesivos, Tablaroca, Durock, Plafón, Suspensión",
+				"name":"Sucursal Canek",
+				"phone":"(999) 964 3200",
+				"cp":"Mérida",
+				"storeid":"9"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-89.6223369262051,
+					21.0286414131004
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Calle 35 #470 por Paseo de Montejo Fracc. Gonzalo Guerrero, Mérida, Yucatán CP.97118",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Adhesivos, Tablaroca, Durock, Plafón, Suspensión",
+				"name":"Sucursal Mérida",
+				"phone":"(999) 942 0500",
+				"cp":"Mérida",
+				"storeid":"10"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-86.8453227724945,
+					21.1538713799346
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Kabah Lote 01-03, Manzana 1, Super Manzana 37, Cancún, Quintana roo CP.77500",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Adhesivos, Tablaroca, Durock, Plafón, Suspensión",
+				"name":"Sucursal Cancún",
+				"phone":"(998) 193 3700",
+				"cp":"Cancún",
+				"storeid":"11"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-88.3174383314921,
+					18.5179963076187
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Insurgentes #564 esq. Gabriel Leyva Col. Fovisste Gonzalo Guerrero, Chetumal, Quintana roo CP.77020",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Adhesivos, Tablaroca, Durock, Plafón, Suspensión",
+				"name":"Sucursal Chetumal",
+				"phone":"(983) 267-7700",
+				"cp":"Chetumal",
+				"storeid":"12"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-87.0705099087282,
+					20.647844508515
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Carretera Cancún-Tulum Km 55Col. Calle 60 Solidaridad Playa del Carmen, Quintana roo CP.77712",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Adhesivos, Tablaroca, Durock, Plafón, Suspensión",
+				"name":"Sucursal Playa del Carmen",
+				"phone":"(984) 871 5800",
+				"cp":"Playa del Carmen",
+				"storeid":"13"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-94.4853713283637,
+					18.1402706870511
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Universidad Veracruzana Km 8Col. El Tesoro, Coatzacoalcos, Veracruz CP.96536",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Adhesivos, Tablaroca, Durock, Plafón, Suspensión",
+				"name":"Sucursal Coatzacoalcos",
+				"phone":"(921) 211 0600",
+				"cp":"Coatzacoalcos",
+				"storeid":"14"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-107.40872,
+					24.816755
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Rotarismo 1430, Desarrollo Urbano Tres Ríos, 80020 Isidro Salas, Sin., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Culiacán Tres Ríos",
+				"phone":"(667) 759-4700",
+				"cp":"Culiacán",
+				"storeid":"15"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-107.421807,
+					24.790986
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvd. Emiliano Zapata #2546 Pte.Col. El Vallado,Culiacán, Sinaloa Cp.80110",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Culiacán Zapata",
+				"phone":"(667) 758 8000",
+				"cp":"Culiacán",
+				"storeid":"16"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-109.005941,
+					25.783749
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvrd Antonio Rosales 1280, Centro, 81271 Los Mochis, Sin., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Mochis",
+				"phone":"(668) 816 1900",
+				"cp":"Ahome",
+				"storeid":"17"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.43639,
+					20.535138
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Paseo Constituyentes 1617, Los Pajaros, 76900 El Pueblito, Qro., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Corregidora",
+				"phone":"(442) 209 7300",
+				"cp":"Corregidora",
+				"storeid":"18"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-106.148443,
+					28.723597
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Paseos De La Universidad 16101, Bosques De San Pedro 1, 31125 Chihuahua, Chih.",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Chihuahua Norte",
+				"phone":"(614) 158 6800",
+				"cp":"Chihuahua",
+				"storeid":"19"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-102.293855,
+					21.852919
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvd. José María Chávez #1809Col. Prados De Villasunción,Aguascalientes, Aguascalientes Cp.20280",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Villa Asunción",
+				"phone":"(449) 176 0700",
+				"cp":"Aguascalientes",
+				"storeid":"20"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-102.294291,
+					21.921387
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvd. Zacatecas Norte 112, Desarrollo Especial Galerías, 20120 Aguascalientes, Ags., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Aguascalientes",
+				"phone":"(449) 910 8900",
+				"cp":"Aguascalientes",
+				"storeid":"21"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-116.602327,
+					31.819593
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Lote 194, Manzana 054, Av. Pedro Loyola #673 Esq. Calle Hierrocol. Carlos Pacheco,Ensenada, Baja California Norte Cp.",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Ensenada",
+				"phone":"(646) 152 2300",
+				"cp":"Ensenada",
+				"storeid":"22"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-115.442026,
+					32.61738
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvd. Benito Juárez #2398Col. Sánchez Taboada,Mexicali, Baja California Norte Cp.21370",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Mexicali",
+				"phone":"(686) 906 8000",
+				"cp":"Mexicali",
+				"storeid":"23"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-117.062231,
+					32.37762
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvd. Benito Juárez #300 Lote 000, Manzana 030Col. Reforma,Playas De Rosarito, Baja California Norte Cp.22710",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Rosarito",
+				"phone":"(661) 614 8100",
+				"cp":"Playas De Rosarito",
+				"storeid":"24"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-116.962423,
+					32.507272
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Vía Rápida Pte. Esq. Lázaro Cárdenascol. Los Santos Del. La Mesa,Tijuana, Baja California Norte Cp.22430",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Tijuana Vía Rápida",
+				"phone":"(664) 608 8000",
+				"cp":"Tijuana",
+				"storeid":"25"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-116.851065,
+					32.495897
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Corredor Tijuana-Rosarito #2000 Esq. Lázaro Cárdenasmanzana 819,Tijuana, Baja California Norte Cp.22205",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Tijuana 2000",
+				"phone":"(664) 969 1000",
+				"cp":"Tijuana",
+				"storeid":"26"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-108.484671,
+					25.586315
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Culiacán - Los Mochis 20, 81000 Guasave, Sin., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Guasave",
+				"phone":"(687) 721 9000",
+				"cp":"Guasave",
+				"storeid":"27"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-106.436317,
+					23.245042
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Rafael Buelna 600, Alameda, 82123 Mazatlán, Sin., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Mazatlán",
+				"phone":"(669) 989 9900",
+				"cp":"Mazatlán",
+				"storeid":"28"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-109.931192,
+					27.516938
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Bv. Lago Superior 1065, Real Del Sol, 85010 Cd Obregón, Son., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Obregón",
+				"phone":"(644) 410 9300",
+				"cp":"Cajeme",
+				"storeid":"29"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-110.933004,
+					27.940105
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. García López #15 Carretera Internacional Esq. Blvd. Camino Altularcol. Linda Vista,Guaymas, Sonora Cp.85456",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Guaymas",
+				"phone":"(622) 225 0900",
+				"cp":"Guaymas",
+				"storeid":"30"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-110.967077,
+					29.065443
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Bulevar Solidaridad 990, Proyecto Rio Sonora Hermosillo Xxi, 83270 Hermosillo, Son., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Hermosillo",
+				"phone":"(662) 259 8500",
+				"cp":"Hermosillo",
+				"storeid":"31"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-110.94276,
+					31.287564
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvd. Luis Donaldo Colosio 2750 Entre Blvd. El Greco Y Av. Alejandracol. El Greco,Nogales, Sonora Cp.84065",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Nogales",
+				"phone":"(631) 311 6900",
+				"cp":"Nogales",
+				"storeid":"32"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.139045,
+					23.772333
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"México 85 3520, Montes Altos, 87020 Cd Victoria, Tamps., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Ciudad Victoria",
+				"phone":"(834) 107 0000",
+				"cp":"Victoria",
+				"storeid":"33"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-97.509519,
+					25.841246
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Pedro Cárdenasfracc. Ciudad Victoria,Matamoros, Tamaulipas Cp.87390",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Matamoros",
+				"phone":"(868) 811 0600",
+				"cp":"Matamoros",
+				"storeid":"34"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-98.319176,
+					26.072259
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Fuente De Diana #200 Sur Esq. Blvd. Hidalgocol. Las Fuentes,Reynosa, Tamaulipas Cp.88710",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Reynosa",
+				"phone":"(899) 909 2000",
+				"cp":"Reynosa",
+				"storeid":"35"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.518781,
+					27.444069
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Reforma #5601Col. Las Alamedas Plaza Reforma,Nuevo Laredo, Tamaulipas Cp.88001",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Nuevo Laredo",
+				"phone":"(867) 711 6300",
+				"cp":"Nuevo Laredo",
+				"storeid":"36"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-97.874996,
+					22.276777
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Hidalgo #6000Col. Lomas Del Chariel,Tampico, Tamaulipas Cp.89360",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Tampico",
+				"phone":"(833) 230 2800",
+				"cp":"Tampico",
+				"storeid":"37"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-98.200732,
+					19.337752
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Carr. Puebla-Apizaco 3, 90610 Tlatempan, Tlax., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Tlaxcala",
+				"phone":"(246) 465 6000",
+				"cp":"Apetatitlán De Antonio Carvajal",
+				"storeid":"38"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-96.956999,
+					18.882811
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvd. Tratados De Córdoba,Córdoba, Veracruz Cp.94575",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Córdoba",
+				"phone":"(271) 717 2100",
+				"cp":"Córdoba",
+				"storeid":"39"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-97.434925,
+					20.569898
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvd. Adolfo Ruíz Cortines, Carretera Poza Rica-Cazones Km 50Col. Reforma,Poza Rica, Veracruz Cp.93210",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Poza Rica",
+				"phone":"(782) 826 1500",
+				"cp":"Poza Rica De Hidalgo",
+				"storeid":"40"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-96.131845,
+					19.146107
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Ejército Mexicano Ote. 8776, Las Antillas, 91936 Veracruz, Ver., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Veracruz Puerto",
+				"phone":"(229) 923 6900",
+				"cp":"Veracruz",
+				"storeid":"41"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-96.889066,
+					19.522672
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Lázaro Cárdenas 513, Jardines De Las Animas, 91190 Xalapa-Enríquez, Ver., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Xalapa",
+				"phone":"(228) 141 0100",
+				"cp":"Xalapa",
+				"storeid":"42"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-102.529399,
+					22.753292
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"The Home Depot Zacatecas, Calz. Revolución Mexicana, El Carmen, 98608 Guadalupe, Zac., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Zacatecas",
+				"phone":"(492) 491 6200",
+				"cp":"Guadalupe",
+				"storeid":"43"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-106.121022,
+					28.627736
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Periférico De La Juventud #6101Col. Hacienda Del Valle,Chihuahua, Chihuahua Cp.31216",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Perif. De La Juventud",
+				"phone":"(614) 439 8200",
+				"cp":"Chihuahua",
+				"storeid":"44"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-106.385808,
+					31.648237
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Henequén #1181Col. Salvárcar,Ciudad Juárez, Chihuahua Cp.32690",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Henequén",
+				"phone":"(656) 637 4700",
+				"cp":"Juárez",
+				"storeid":"45"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-106.451908,
+					31.722201
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. López Mateos #1365Col. Melchor Ocampo,Ciudad Juárez, Chihuahua Cp.32380",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal López Mateos",
+				"phone":"656) 686 1000",
+				"cp":"Juárez",
+				"storeid":"46"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-106.421658,
+					31.703947
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"The Home Depot, Ejército Nacional 6804, Pradera Dorada, 32618 Cd Juárez, Chih., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Tecnológico",
+				"phone":"(656) 227 0000",
+				"cp":"Juárez",
+				"storeid":"47"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-105.46327,
+					28.198433
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"2Da Ote. #903 Esq. Ferrocarrilcol. Terrazas,Delicias, Chihuahua Cp.33020",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Delicias",
+				"phone":"(639) 139 0800",
+				"cp":"Delicias",
+				"storeid":"48"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.254791,
+					19.37702
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Prolongación Paseo De La Reforma #400 (Dentro De Patio Santa Fe)Col. Santa Fe Peña Blanca,Del. Álvaro Obregón, Ciudad ",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Santa Fe",
+				"phone":"(55) 508 12100",
+				"cp":"Álvaro Obregón",
+				"storeid":"49"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.210329,
+					19.328395
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. San Jerónimo Esq. Periférico #630Col. La Otra Banda,Del. Álvaro Obregón, Ciudad De México Cp.01090",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal San Jerónimo",
+				"phone":"(55) 5377 0900",
+				"cp":"Álvaro Obregón",
+				"storeid":"50"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.199931,
+					19.377978
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Central Alta Tensióncol. Alfonso Xiii,Del. Álvaro Obregón, Ciudad De México Cp.01460",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Mixcoac",
+				"phone":"(55) 5278 0800",
+				"cp":"Álvaro Obregón",
+				"storeid":"51"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.160126,
+					19.46422
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Jardin 245, Tlatilco, 02860 Ciudad De México, Cdmx, México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Tlatilco",
+				"phone":"(55) 5354 5400",
+				"cp":"Azcapotzalco",
+				"storeid":"52"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.157457,
+					19.335544
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Pedro Henríquez Ureña 546, Los Reyes, 04300 Ciudad De México, Cdmx, México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Copilco",
+				"phone":"(55) 5338 0900",
+				"cp":"Coyoacán",
+				"storeid":"53"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.118471,
+					19.302726
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Calz. Del Hueso 679, Coapa, Girasoles I, 04920 Ciudad De México, Cdmx, México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Coapa Del Hueso",
+				"phone":"(55) 5624 1400",
+				"cp":"Coyoacán",
+				"storeid":"54"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.124747,
+					19.308756
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Canal De Miramontes 2053, Coapa, Girasoles Iii, 04920 Ciudad De México, Cdmx, México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Coapa Miramontes",
+				"phone":"(55) 5483 3900",
+				"cp":"Coyoacán",
+				"storeid":"55"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.133292,
+					19.482941
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Fortuna #334Col. Magdalena De La Salinas,Del. Gustavo A. Madero, Ciudad De México Cp.07760",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Linda Vista",
+				"phone":"(55) 5747 8600",
+				"cp":"Gustavo A. Madero",
+				"storeid":"56"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.116878,
+					19.41493
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Del Taller #370, 24 De Abril, 15980 Ciudad De México, Cdmx, México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Centro",
+				"phone":"(55) 5036 1100",
+				"cp":"Venustiano Carranza",
+				"storeid":"57"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.05828,
+					19.379449
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Anillo Perif. 2141, Chinam Pac De Juárez, 09220 Ciudad De México, Cdmx, México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Iztapalapa",
+				"phone":"(55) 5804 1200",
+				"cp":"Iztapalapa",
+				"storeid":"58"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-101.418708,
+					26.924836
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvd. Harold R. Papecol. Del Prado (Entre Kennedy Y Santana) Zona Dorada,Monclova, Coahuila Cp.25718",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Monclova",
+				"phone":"(866) 1580 500",
+				"cp":"Monclova",
+				"storeid":"59"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.547163,
+					28.680396
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Carretera 57 Y Eulalio Gutiérrez,Piedras Negras, Coahuila Cp.26070",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Piedras Negras",
+				"phone":"(878) 784 2100",
+				"cp":"Piedras Negras",
+				"storeid":"60"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.978124,
+					25.456139
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvrd. Nazario Ortiz Garza 1951, Sin Nombre De Col 16, 25279 Saltillo, Coah., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Saltillo Galerías",
+				"phone":"(844) 438 5400",
+				"cp":"Saltillo",
+				"storeid":"61"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.997408,
+					25.389388
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Periférico Luis Echeverría Álvarez #1171Col. La Nogalera,Saltillo, Coahuila Cp.25019",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Saltillo Nogalera",
+				"phone":"(844) 411 9100",
+				"cp":"Saltillo",
+				"storeid":"62"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-103.42483,
+					25.552495
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvrd Diagonal Reforma 2200, Abastos, 27020 Torreón, Coah., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Torreón Abastos",
+				"phone":"(871) 747 4500",
+				"cp":"Torreón",
+				"storeid":"63"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-103.697197,
+					19.244834
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Manzanillo 622 Col. Luis Donaldo Colosio Colima, Colima 28047",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Colima",
+				"phone":"(312) 316 4100",
+				"cp":"Colima",
+				"storeid":"64"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-104.323668,
+					19.100607
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvd. Costero Miguel De La Madrid #1550Col. Aeroméxico,Manzanillo, Colima Cp.28869",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Manzanillo",
+				"phone":"(314) 331 3900",
+				"cp":"Manzanillo",
+				"storeid":"65"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-104.661504,
+					24.010207
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Domingo Arrieta 603, El Refugio, 34170 Durango, Dgo., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Durango",
+				"phone":"(618) 827 2200",
+				"cp":"Durango",
+				"storeid":"66"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.096759,
+					19.63575
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Plaza Las Flores, Av José López Portillo 105, Villa De Las Flores, 55710 San Francisco Coacalco, Méx., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Coacalco",
+				"phone":"(55) 5898 9800",
+				"cp":"Coacalco De Berriozábal",
+				"storeid":"67"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.191008,
+					19.605278
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Hacienda Xalpa 1, Hacienda Del Parque, 54769 Cuautitlán Izcalli, Méx., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Perinorte",
+				"phone":"(55) 5864 1900",
+				"cp":"Cuautitlán Izcalli",
+				"storeid":"68"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.208365,
+					19.671342
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av Chalma 551, San Juan Atlamica, 54720 Cuautitlán Izcalli, Méx., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Cuautitlán",
+				"phone":"(55) 5864 2300",
+				"cp":"Cuautitlán Izcalli",
+				"storeid":"69"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.041035,
+					19.579836
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Vía Morelos Km 20.5, Los Laureles, 55090 Ecatepec De Morelos, Méx., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Ecatepec",
+				"phone":"(55) 4117 0800",
+				"cp":"Ecatepec De Morelos",
+				"storeid":"70"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.028387,
+					19.529605
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Carlos Hank González #120Col. Rinconada De Aragón,Ecatepec, Estado De México Cp.55140",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Aragón",
+				"phone":"(55) 4117 1400",
+				"cp":"Ecatepec De Morelos",
+				"storeid":"71"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-98.987208,
+					19.355743
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Carr Federal México-Puebla 324, Los Reyes, 56400 Los Reyes Acaquilpan, Méx., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Los Reyes La Paz",
+				"phone":"(55) 2619 7800",
+				"cp":"La Paz",
+				"storeid":"72"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.615125,
+					19.253469
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Paseo San Isidro 2, Santa Cruz, 52140 Metepec, Méx., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Metepec",
+				"phone":"(722) 275 7100",
+				"cp":"Metepec",
+				"storeid":"73"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.221259,
+					19.46242
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Calle 3 40, San Francisco Cuautlalpan, 53569 Naucalpan De Juárez, Méx., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Naucalpan",
+				"phone":"(55) 2122 7400",
+				"cp":"Naucalpan De Juárez",
+				"storeid":"74"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.237,
+					19.48578
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Avenida Lomas Verdes 904, Sta Cruz Acatlan, 53150 Naucalpan De Juárez, Méx., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Lomas Verdes",
+				"phone":"(55) 5371 0400",
+				"cp":"Naucalpan De Juárez",
+				"storeid":"75"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.272615,
+					19.406066
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Plaza Magno Centro, Calle Palma Criolla 35, Bosque De Las Palmas, 52787 Méx., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Interlomas",
+				"phone":"(55) 5246 3300",
+				"cp":"Huixquilucan",
+				"storeid":"76"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-98.980034,
+					19.698718
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Carr. Federal Pachuca - Mexico Km. 36.5, Hueyotenco, 55740 Tecámac De Felipe Villanueva, Méx., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Tecamac",
+				"phone":"(55) 5938 8000",
+				"cp":"Tecámac",
+				"storeid":"77"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-98.912845,
+					19.425364
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Martínez 3, Presidentes, 56375 Chicoloapan De Juárez, Méx., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Texcoco",
+				"phone":"(595) 952 0600",
+				"cp":"Texcoco",
+				"storeid":"78"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.212243,
+					19.545608
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Autopista México - Querétaro 3000, Valle Dorado, Hab Los Pirules, 54040 Tlalnepantla De Baz, Méx., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Tlalnepantla",
+				"phone":"(55) 1940 1800",
+				"cp":"Tlalnepantla De Baz",
+				"storeid":"79"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.635116,
+					19.308909
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Alfredo Del Mazo #903Col. Barrio De Tlacopa,Toluca, Estado De México Cp.50016",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Toluca",
+				"phone":"(722) 236 0700",
+				"cp":"Toluca",
+				"storeid":"80"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.824161,
+					20.551933
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av Tecnológico 698, Cd Industrial De Celaya, 38010 Celaya, Gto., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Celaya",
+				"phone":"(461) 598 7300",
+				"cp":"Celaya",
+				"storeid":"81"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-101.373497,
+					20.672446
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Lázaro Cárdenas 4977, San Miguelito, 36557 Irapuato, Gto., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Irapuato",
+				"phone":"(462) 635 8600",
+				"cp":"Irapuato",
+				"storeid":"82"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-101.691673,
+					21.163239
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvd. Manuel J. Clouthier #304Valle Del Campestre, Cerro Gordo,León, Guanajuato Cp.37150",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal León Plaza Mayor",
+				"phone":"(477) 788 5800",
+				"cp":"León",
+				"storeid":"83"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-101.636564,
+					21.098857
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Sin Nombre No. 243 Lb, Centro Comercial, León, Gto., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal León Centro Max",
+				"phone":"(477) 710 0100",
+				"cp":"León",
+				"storeid":"84"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-101.181117,
+					20.597189
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvd. Bicentenario De La Independencia #12Col. El Monte,Salamanca, Guanajuato Cp.36720",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Salamanca",
+				"phone":"(464) 641 8500",
+				"cp":"Salamanca",
+				"storeid":"85"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.887011,
+					16.863524
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Cuauhtémoc #1303Fracc. Hornos Insurgentes,Acapulco, Guerrero Cp.39350",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Acapulco",
+				"phone":"(744) 469 1600",
+				"cp":"Acapulco De Juárez",
+				"storeid":"86"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.812957,
+					16.799056
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvrd De Las Naciones 702, La Poza, 39907 Acapulco De Juárez, Gro., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Acapulco Diamante",
+				"phone":"(744) 435 6200",
+				"cp":"Acapulco De Juárez",
+				"storeid":"87"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-103.289326,
+					20.679379
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av José María Iglesias 3151, San Eugenio, 44724 Guadalajara, Jal., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Oblatos",
+				"phone":"(33) 3883 0900",
+				"cp":"Guadalajara",
+				"storeid":"88"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-103.317456,
+					20.722101
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Calz Independencia Nte 40, Lomas Del Paraíso I, 44250 Guadalajara, Jal., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Independencia",
+				"phone":"(33) 3837 1600",
+				"cp":"Guadalajara",
+				"storeid":"89"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-105.239045,
+					20.69663
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Puerto Vallarta - Tepic 5348, Hacienda San Javier, 48291 Puerto Vallarta, Jal., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Las Juntas",
+				"phone":"(322) 226 5500",
+				"cp":"Puerto Vallarta",
+				"storeid":"90"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-103.318471,
+					20.645088
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvrd Gral Marcelino García Barragán 1455, Bosques Del Boulevard, 45500 Guadalajara, Jal., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Tlaquepaque",
+				"phone":"(33) 3837 7800",
+				"cp":"San Pedro Tlaquepaque",
+				"storeid":"91"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-103.423902,
+					20.617499
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Camino Al Iteso 8952, Sin Nombre, 45080 San Pedro Tlaquepaque, Jal., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Iteso",
+				"phone":"(33) 3884 8000",
+				"cp":"San Pedro Tlaquepaque",
+				"storeid":"92"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-103.421787,
+					20.66069
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"San Miguel 4701, Jardines Del Tepeyac, 45034 Zapopan, Jal., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Cordilleras",
+				"phone":"(33) 1002 0200",
+				"cp":"Zapopan",
+				"storeid":"93"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-103.413658,
+					20.722901
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Unnamed Road, Lomas Del Bosque, Chedraui, 45140 Zapopan, Jal., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Zapopan Acueducto",
+				"phone":"(33) 3648 6400",
+				"cp":"Zapopan",
+				"storeid":"94"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-102.296271,
+					19.96935
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Calzada Zamora-Jacona #780 Esq. Av. De Las Garzaspredio El Pantano,Jacona, Michoacan Cp.59813",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Zamora",
+				"phone":"(351) 530 3000",
+				"cp":"Jacona",
+				"storeid":"95"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-101.150541,
+					19.698536
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Periférico Paseo De La República #4995Col. Ex Hacienda Del Rincón,Morelia, Michoacan Cp.58257",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Tres Marías",
+				"phone":"(443) 147 7400",
+				"cp":"Morelia",
+				"storeid":"96"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-101.220566,
+					19.678217
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Calzada La Huerta #3000Col. Ex Hacienda La Huerta,Morelia, Michoacan Cp.58080",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Morelia",
+				"phone":"(443) 322 4500",
+				"cp":"Morelia",
+				"storeid":"97"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-102.026182,
+					19.424332
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Libramiento Oriente #2199 Esq. Con Blvd. Industrialcol. La Cofradia,Uruapan, Michoacan Cp.60126",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Uruapan",
+				"phone":"(452) 503 4200",
+				"cp":"Uruapan",
+				"storeid":"98"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-98.933992,
+					18.850071
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Jantetelco - Cuautla 215, Cuautlixco, 62749 Cuautla, Mor., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Cuautla",
+				"phone":"(735) 398 9600",
+				"cp":"Cuautla",
+				"storeid":"99"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.228754,
+					18.950782
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Vicente Guerrero #1210Col. Lomas Del Cortés,Cuernavaca, Morelos Cp.62240",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Cuernavaca",
+				"phone":"(777) 101 0700",
+				"cp":"Cuernavaca",
+				"storeid":"100"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.171539,
+					18.898903
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvd. Cuauhnahuac #3Col. Moctezuma,Juitepec, Morelos Cp.62579",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Juitepec",
+				"phone":"(777) 516 5200",
+				"cp":"Jiutepec",
+				"storeid":"101"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-104.873945,
+					21.479014
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Insurgentes 2297, Capitán Orozco, Gustavo Díaz Ordaz, 63176 Tepic, Nay., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Tepic",
+				"phone":"(31) 1129-6400",
+				"cp":"Tepic",
+				"storeid":"102"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.271751,
+					25.771729
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Sendero Norte #1502Col. Cerradas De Aanáhuac,Escobedo, Nuevo León Cp.66059",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Sendero",
+				"phone":"(81) 8132 0500",
+				"cp":"General Escobedo",
+				"storeid":"103"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.332429,
+					25.642539
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Garza Lagüera (Antes Av. Fundadores) #101Col. Valle Oriente,San Pedro Garza García, Nuevo León Cp.66269",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Fundadores",
+				"phone":"(81) 1223 0200",
+				"cp":"San Pedro Garza García",
+				"storeid":"104"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.18348,
+					25.647013
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Eloy Cavazos #7800Col. Jardines De Andalucía,Guadalupe, Nuevo León Cp.67150",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Eloy Cavazos",
+				"phone":"(81) 8127 2000",
+				"cp":"Guadalupe",
+				"storeid":"105"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.249893,
+					25.576517
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Plaza Serena Carretera Nacional #500, Pueblo Serenacol. Portal Del Huajuco,Monterrey, Nuevo León Cp.64989",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal La Rioja",
+				"phone":"(81) 1224 0600",
+				"cp":"Monterrey",
+				"storeid":"106"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.298124,
+					25.630583
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Lázaro Cárdenas #2800Col. Balcones Del Mirador,Monterrey, Nuevo León Cp.64790",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Torres",
+				"phone":"(81) 8328 4800",
+				"cp":"Monterrey",
+				"storeid":"107"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.280585,
+					25.655909
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Revolución #2096Fracc. Estadio,Monterrey, Nuevo León Cp.64830",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Revolución",
+				"phone":"(81) 8369 4400",
+				"cp":"Monterrey",
+				"storeid":"108"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.391654,
+					25.72578
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Paseo De Los Triunfadores #3200Col. Cumbres 8Vo Sector,Monterrey, Nuevo León Cp.64610",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Cumbres",
+				"phone":"(81) 8158 8000",
+				"cp":"Monterrey",
+				"storeid":"109"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.296587,
+					25.723679
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Nogalar #130 Surcol. Cuauhtémoc,San Nicolás De Los Garza, Nuevo León Cp.66452",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Nogalar",
+				"phone":"(81) 8305 4800",
+				"cp":"San Nicolás De Los Garza",
+				"storeid":"110"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.219067,
+					25.717492
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Miguel Alemán Esq. Av. Las Torrescol. Miguel Alemán,San Nicolás De Los Garza, Nuevo León Cp.66447",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Miguel Alemán",
+				"phone":"(81) 8131 0900",
+				"cp":"San Nicolás De Los Garza",
+				"storeid":"111"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.423167,
+					25.673438
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvd. Díaz Ordaz #100Col. La Fama,Santa Catarina, Nuevo León Cp.66100",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Santa Catarina",
+				"phone":"(81) 8124 0600",
+				"cp":"Santa Catarina",
+				"storeid":"112"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-98.159817,
+					19.058575
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Carretera A Tehuacán #5643Av. Justo Sierra Esq. Av. Defensores De La República,Puebla, Puebla Cp.72160",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Villa Verde",
+				"phone":"(222) 213 7600",
+				"cp":"Puebla",
+				"storeid":"113"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-98.240576,
+					18.988568
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. 9 Sur Esq. Periférico Ecológicocol. San Bartolo Coatepec,Puebla, Puebla Cp.72400",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Puebla Periférico",
+				"phone":"(222) 623 0000",
+				"cp":"Puebla",
+				"storeid":"114"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-98.239574,
+					19.026451
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Proción, Reserva Territorial Atlixcáyotl, Centros Comerciales Desarrollo Atlixcayotl, Puebla, Pue., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Angelópolis",
+				"phone":"(222) 303 8800",
+				"cp":"San Andrés Cholula",
+				"storeid":"115"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-98.210968,
+					19.069061
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvrd Nte 8768, Nueva Aurora Popular, 72070 Puebla, Pue., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Puebla Blvd. Norte",
+				"phone":"(222) 303 1700",
+				"cp":"Puebla",
+				"storeid":"116"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-97.421732,
+					18.4707
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Calzada Adolfo López Mateos #4220Col. San Lorenzo Teotipilco,Tehuacán, Puebla Cp.75855",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Tehuacán",
+				"phone":"(238) 380 3050",
+				"cp":"Tehuacán",
+				"storeid":"117"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.4434,
+					20.691281
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Anillo Vial Fray Junípero Serra #2651 Entre Av. De Las Ciencias Y Santa Teresafracc. Juriquilla Santa Fe,Querétaro, ",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Juriquilla",
+				"phone":"(442) 428-5300",
+				"cp":"Querétaro",
+				"storeid":"118"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.376303,
+					20.565599
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Huimilpan 999, Zona Dos Extendida, Plazas Del Sol 1Ra Secc, 76099 Santiago De Querétaro, Qro., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Huimilpan",
+				"phone":"(442) 309 3600",
+				"cp":"Querétaro",
+				"storeid":"119"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.405245,
+					20.616869
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Unnamed Road, Soriana, 76140 Santiago De Querétaro, Qro., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Bernardo Quintana",
+				"phone":"(442) 192 7000",
+				"cp":"Querétaro",
+				"storeid":"120"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.984223,
+					20.391894
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Central Y José María Arteaga,San Juan Del Río, Querétaro Cp.76800",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal San Juan Del Río",
+				"phone":"(427) 268 2300",
+				"cp":"San Juan Del Río",
+				"storeid":"121"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.937653,
+					22.136772
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Carretera 57 #1262Fracc. Valle Dorado,San Luis Potosí, San Luis Potosí Cp.78399",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Carretera 57",
+				"phone":"(444) 826 7800",
+				"cp":"San Luis Potosí",
+				"storeid":"122"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-101.006283,
+					22.136616
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Chapultepec #210 Surcol. Colinas Del Parque,San Luis Potosí, San Luis Potosí Cp.78299",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal San Luis Potosí",
+				"phone":"(444) 834 3800",
+				"cp":"San Luis Potosí",
+				"storeid":"123"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-117.073161,
+					32.534904
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Braulio Maldonado 680, Soler, 22530 Tijuana, B.C., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Tijuana Oeste ",
+				"phone":"(664) 635 1600",
+				"cp":"Tijuana",
+				"storeid":"124"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-98.986719,
+					19.399268
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Calle El Barrilito 376, Esperanza, 57800 Nezahualcóyotl, Méx., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Neza ",
+				"phone":"(55) 2481 3100",
+				"cp":"Nezahualcóyotl",
+				"storeid":"125"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-98.763437,
+					20.094388
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Blvrd Nuevo Hidalgo 208, Puerta De Hierro, 42080 Pachuca De Soto, Hgo., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Pachuca",
+				"phone":"(77) 1717 5700",
+				"cp":"Pachuca De Soto",
+				"storeid":"126"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.391666,
+					25.725684
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Calle Paseo De Los Triunfadores 3200, Cumbres 6O. Sector Secc A, 64610 Monterrey, N.L., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Lincoln ",
+				"phone":"(818) 121 2300",
+				"cp":"Monterrey",
+				"storeid":"127"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-103.459616,
+					20.568372
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Av. Adolfo López Mateos Sur 7700, La Rioja, Fraccionamiento La Rioja, 45640 Los Gavilanes, Jal., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Santa Anita",
+				"phone":"(33) 3283 6600",
+				"cp":"Tlajomulco De Zúñiga",
+				"storeid":"128"
+			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-99.289183,
+					19.548533
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Home Depot México, S. de R.L. de C.V",
+				"direccion":"Vía Dr Jorge Jiménez Cantú S/N, Bosque Esmeralda, 52930 Cd López Mateos, Méx., México",
+				"category":"patisserie",
+				"hours":"08:00 a.m. - 10:00 p.m",
+				"description":"Plafones, adhesivos y Tablaroca sólo por Profesional",
+				"name":"Sucursal Atizapan De Zaragoza ",
+				"phone":"(552)3450300",
+				"cp":"Atizapán De Zaragoza",
+				"storeid":"129"
+			}
+		}
+	]
+}

@@ -1,0 +1,28 @@
+@font-face{
+    font-family: "Gotham-ExtraLight";
+    src: url("../font/Gotham-ExtraLight.ttf") format("truetype");
+}
+@font-face{
+    font-family: "GothamNarrow-ExtraLight";
+    src: url("../font/GothamNarrow-ExtraLight.otf") format("truetype");
+}
+@font-face{
+    font-family: "Gotham-Light";
+    src: url("../font/Gotham-Light.otf") format("truetype");
+}
+@font-face{
+    font-family: "Gotham-Book";
+    src: url("../font/Gotham-Book.otf") format("truetype");
+}
+@font-face{
+    font-family: "MyriadPro-Regular";
+    src: url("../font/MyriadPro-Regular.ttf") format("truetype");
+}
+@font-face{
+    font-family: "Gotham-Bold";
+    src: url("../font/Gotham-Bold.otf") format("truetype");
+}
+@font-face{
+    font-family: "GothamNarrow-Bold";
+    src: url("../font/GothamNarrow-Bold.ttf") format("truetype");
+}

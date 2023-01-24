@@ -1,0 +1,729 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@300;400;500;700&display=swap');
+
+:root{
+    --rojo-letra: #ab172d;
+    --negro-letra: #000000;
+    --gris-letra: #52575b;
+}
+body{
+    color: var(--gris-letra);
+    font-family: 'M PLUS 1p', sans-serif;
+    font-weight: 500;
+}
+
+.img-iconMapa {
+    float:left; width:70px; margin-top:30px;
+}
+
+.txt-Mapa {
+    margin-left:90px; margin-bottom:20px;
+}
+
+
+.btn-usg {
+  color: #fff;
+  background-color: #ab172d;
+  border-color: #ab172d;
+}
+.btn-usg:hover {
+  color: #fff;
+  background-color: #990033;
+  border-color: #990033;
+}
+.btn-check:focus + .btn-usg, .btn-usg:focus {
+  color: #fff;
+  background-color: #990033;
+  border-color: #990033;
+  box-shadow: 0 0 0 0.25rem rgba(49, 132, 253, 0.5);
+}
+.btn-check:checked + .btn-usg, .btn-check:active + .btn-usg, .btn-usg:active, .btn-usg.active, .show > .btn-usg.dropdown-toggle {
+  color: #fff;
+  background-color: #990033;
+  border-color: #0a53be;
+}
+.btn-check:checked + .btn-usg:focus, .btn-check:active + .btn-usg:focus, .btn-usg:active:focus, .btn-usg.active:focus, .show > .btn-usg.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.25rem rgba(49, 132, 253, 0.5);
+}
+.btn-usg:disabled, .btn-usg.disabled {
+  color: #fff;
+  background-color: #ab172d;
+  border-color: #ab172d;
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 619px){
+    body .contenedor_principal{
+        height: auto;
+    }
+
+    .txt-Mapa {
+        margin-left:10px; margin-bottom:20px;
+    }
+    .txt-Mapa h5 {
+        font-size: 0.8rem;
+    }
+    .txt-Mapa p {
+        font-size: 0.7rem;
+    }
+
+    .contenedor_principal .ancho{
+        width: 90%;
+        margin: auto;
+    }
+    .contenedor_principal .ancho .contenedor_titulo .logo img{
+        width: 80px;
+        height: 35px;
+    }
+    .contenedor_titulo .titulo{
+        text-align: center;
+        order: 2;
+        font-size: 15px;
+        margin: 0;
+    }
+    .contenedor_titulo .logo{
+        order: 1;
+        margin: 10px 0;
+    }
+    .contenedor_principal .ancho .contenedor_buscador{
+        display: none;
+    }
+    .contenedor_principal .ancho .formulario{
+        flex-flow: column nowrap;
+        justify-content: space-between;
+    }
+    .contenedor_principal .ancho .formulario{
+        width: 100%;
+        margin: auto;
+    }
+    .formulario .contenedor_form1 .select{
+        width: 100%;
+    }
+    .formulario .contenedor_form2 .select{
+        width: 100%;
+    }
+    .formulario .contenedor_form3 .busqueda{
+        width: 100%;
+    }
+    .formulario .contenedor_form4{
+        align-self: center;
+        margin-top: 25px;
+    }
+    .contenedor_principal .formulario .estadoh4, .ciudadh4, .busquedah4{
+        margin-bottom: 5px;
+        margin-top: 15px;
+    }
+    .contenedor_principal .formulario .estadoh4{
+        margin-top: 0;
+    }
+    .contenedor_principal .ancho .contenedor_ubicacion{
+        width: 100%;
+
+        justify-content: center;
+    }
+    .contenedor_principal .ancho .contenedor_mapa{
+        height: 270px;
+    }
+    .contenedor_principal .ancho .contenedor_mapa .resultado{
+        display: none;
+    }
+    .contenedor_principal .ancho .contenedor_mapa .lugares{
+        display: none;
+    }
+    .contenedor_principal .ancho .contenedor_mapa .mapa{
+        width: 100%;
+        height: 100%;
+    }
+    footer{
+        padding-bottom: 20px;
+    }
+    footer .parrafos_footer{
+        padding-bottom: 20px;
+    }
+    footer .parrafos_footer p{
+        margin: 0;
+        font-size: 8px;
+        text-align: center;
+    }
+}
+
+
+@media screen and (min-width: 620px) and (max-width: 768px){
+    body .contenedor_principal{
+        height: auto;
+    }
+
+    .txt-Mapa {
+        margin-left:10px; margin-bottom:20px;
+    }
+
+    .contenedor_principal .ancho{
+        width: 86%;
+    }
+    .contenedor_principal .ancho .contenedor_titulo .logo img{
+        width: 95px;
+        height: 41px;
+    }
+    .contenedor_titulo .titulo{
+        text-align: center;
+        order: 2;
+        font-size: 22px;
+        margin: 0;
+    }
+    .contenedor_titulo .logo{
+        order: 2;
+    }
+    .contenedor_principal .ancho .contenedor_buscador{
+        justify-content: center;
+    }
+    .contenedor_principal .ancho .contenedor_buscador p{
+        font-size: 17px;
+    }
+    .contenedor_principal .ancho .contenedor_buscador .icono_buscador img{
+        width: 25px;
+        height: 31px;
+    }
+    .contenedor_principal .ancho .formulario{
+        width: 100%;
+        display: flex;
+
+        flex-flow: row wrap;
+        justify-content: space-between;
+    }
+
+    .contenedor_principal .formulario .estadoh4, .ciudadh4{
+        margin-bottom: 15px;
+        margin-top: 10px;
+    }
+    .contenedor_principal .formulario .busquedah4{
+        margin-bottom: 15px;
+        margin-top: 20px;
+    }
+    .formulario .contenedor_form1{
+        width: 100%;
+    }
+    .formulario .contenedor_form2{
+        width: 50%;
+    }
+    .formulario .contenedor_form3{
+        width: 50%;
+    }
+    .formulario .contenedor_form3 .busqueda{
+        width: 100%;
+    }
+    .contenedor_principal .ancho .formulario .contenedor_form4{
+        width: 100%;
+        
+        display: flex;
+        justify-content: flex-end;
+    }
+    .contenedor_principal .ancho .formulario .contenedor_form4 .boton{
+        margin-top: 30px;
+    }
+    .contenedor_principal .ancho .contenedor_mapa{
+        height: 350px;
+    }
+    .contenedor_principal .ancho .contenedor_ubicacion{
+        width: 100%;
+
+        justify-content: center;
+    }
+    .contenedor_principal .ancho .contenedor_ubicacion p{
+        font-size: 20px;
+    }
+    .contenedor_principal .ancho .contenedor_mapa .mapa{
+        height: 100%;
+        width: 100%;
+    }
+    .contenedor_principal .ancho .contenedor_mapa .resultado{
+        display: none;
+    }
+    .contenedor_principal .ancho .contenedor_mapa .lugares{
+        display: none;
+    }
+    footer .parrafos_footer{
+        padding: 20px;
+    }
+    footer .parrafos_footer p{
+        margin: 0;
+        font-size: 12px;
+        text-align: center;
+    }
+}
+
+
+@media screen and (min-width: 769px){
+    body .contenedor_principal{
+        height: auto;
+    }
+    .contenedor_principal .ancho{
+        width: 86%;
+    }
+    .formulario .contenedor_form1{
+        width: 100%;
+    }
+    .formulario .contenedor_form2{
+        width: 50%;
+    }
+    .formulario .contenedor_form3{
+        width: 100%;
+    }
+    .formulario .contenedor_form4{
+        width: 45%;
+    }
+    .formulario .contenedor_form3 .busqueda{
+        width: 100%;
+    }
+    .contenedor_principal .ancho .formulario .contenedor_form4{
+        width: 45%;
+    }
+    .contenedor_principal .ancho .formulario .contenedor_form4 .boton{
+        margin-top: 30px;
+    }
+    .contenedor_principal .ancho .formulario .contenedor_form4{
+        width: 100%;
+        
+        display: flex;
+        justify-content: flex-end;
+    }
+    .contenedor_principal .ancho .formulario .contenedor_form4 .boton{
+        margin-top: 30px;
+    }
+    .contenedor_principal .ancho .contenedor_ubicacion{
+        width: 100%
+    }
+    .contenedor_principal .ancho .contenedor_ubicacion p{
+        font-size: 20px;
+    }
+}
+
+
+
+@media screen and (min-width: 1025px){
+    body .contenedor_principal{
+        height: 100vh;
+    }
+    .contenedor_principal .ancho{
+        width: 70%;
+    }
+    .contenedor_principal .ancho .formulario{
+        width: 100%;
+        display: flex;
+
+        flex-flow: row wrap;
+        justify-content: space-between;
+    }
+    .formulario .contenedor_form1{
+        width: 100%;
+    }
+    .formulario .contenedor_form2{
+        width: 50%;
+    }
+    .formulario .contenedor_form3{
+        width: 50%;
+    }
+    .formulario .contenedor_form4{
+        width: 12%;
+    }
+    .formulario .contenedor_form1 select{
+        width: 100%;
+    }
+    .formulario .contenedor_form2 select{
+        width: 100%;
+    }
+    .formulario .contenedor_form3 .busqueda{
+        width: 100%;
+    }
+    .formulario .contenedor_form4 .boton input{
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+
+.contenedor_principal{
+    background: url(../img/background-mapa-usg.png);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+
+
+.ancho{
+    width: 70%;
+    margin: auto;
+}
+
+.contenedor_titulo{
+    width: 100%;
+    height: auto;
+    padding-top: 50px;
+    text-align: center;
+
+
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor_titulo h3{
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+}
+.contenedor_titulo .titulo span{
+    color: var(--rojo-letra);
+}
+.contenedor_titulo .logo{
+    padding-top: 10px;
+    order: 2;
+}
+.contenedor_titulo .logo img{
+    width: 95px;
+    height: 41px;
+}
+
+
+
+.contenedor_buscador{
+    width: 70%;
+    height: auto;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+.contenedor_buscador p{
+    font-size: 18px;
+    color: var(--rojo-letra);
+}
+.contenedor_buscador .icono_buscador{
+    margin: 0 15px;
+}
+.contenedor_buscador .icono_buscador img{
+    width: 30px;
+    height: 36px;
+}
+
+
+
+.contenedor_ubicacion{
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+.contenedor_ubicacion p{
+    font-size: 15px;
+    color: var(--gris-letra);
+    margin: 0 10px;
+    cursor: pointer;
+    font-weight: 700;
+}
+.contenedor_ubicacion p:hover{
+    color: var(--rojo-letra);
+    transition:.40s all ease;
+}
+.contenedor_ubicacion .icono_ubicacion{
+    margin: 0 0;
+}
+.contenedor_ubicacion .icono_ubicacion img{
+    width: 20px;
+    height: 32px;
+}
+
+
+.formulario{
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+.estadoh4 .ciudadh4 .busquedah4{
+    margin: 15px 0;
+}
+select {
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    -ms-appearance:none;
+    appearance:none;
+    outline:0;
+    box-shadow:none;
+    border: 1px solid #CED4DA;
+    border-radius: 8px 0 0 8px;
+    background: #FFF;
+    background-image: none;
+    flex: 1;
+    padding: 0.5em;
+    color:#606060;
+    cursor:pointer;
+ }
+ select::-ms-expand {
+     display: none;
+ }
+ .select {
+    color: #CED4DA;
+    position: relative;
+    display: flex;
+    width: 90%;
+    height: 35px;
+    overflow: hidden;
+    border-radius: .25em;
+ }
+ .select::before {
+    position: absolute;
+    content: '\25BC';
+    top: 0;
+    right: 0;
+    line-height: 2.2;
+    padding: 0 1rem;
+    background: #E9ECEF;
+    cursor:pointer;
+    pointer-events:none;
+    transition:.40s all ease;
+ }
+ .select:hover::before {
+    color: #A3A3A3;
+ }
+ .formulario .contenedor_form1 .select select{
+    font-size: 14px;
+    font-weight: 300;
+ }
+ .formulario .contenedor_form2 .select select{
+    font-size: 14px;
+    font-weight: 300;
+ }
+ input {
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    -ms-appearance:none;
+    appearance:none;
+    outline:0;
+    box-shadow:none;
+    border: 1px solid #CED4DA;
+    border-radius: 8px;
+    background: #FFF;
+    background-image: none;
+    flex: 1;
+    padding: 0 .5em;
+    color:#606060;
+    cursor:pointer;
+    font-size: 1.1em;
+ }
+ .busqueda {
+    color: #CED4DA;
+    position: relative;
+    display: flex;
+    width: 350px;
+    height: 35px;
+    overflow: hidden;
+    border-radius: .25em;
+ }
+ input::placeholder{
+     color: #CED4DA;
+     font-size: 14px;
+     font-weight: 300;
+ }
+ .boton input{
+        background: var(--rojo-letra);
+        color: #FFFFFF;
+        width: 200px;
+        height: 35px;
+        border: none;
+        transition:.40s all ease;
+     }
+ .boton input:hover{
+        background: #95192b;
+ }
+ .contenedor_form4{
+     align-self: flex-end;
+ }
+ .formulario .contenedor_form4 input{
+    font-weight: 400;
+ }
+
+
+
+
+.contenedor_mapa{
+    width: 100%;
+    height: 520px;
+    margin-top: 20px;
+    position: relative;
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.lugares{
+    width: 50%;
+    height: 90%;
+    overflow: scroll;
+    align-self: flex-end;
+
+}
+.mapa{
+    width: 50%;
+    height: 100%;
+}
+.contenedor_mapa .resultado{
+    width: 100%;
+    height: 10%;
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+.contenedor_mapa .resultado p{
+    margin: 0;
+    color: var(--rojo-letra);
+    font-weight: 400;
+}
+.contenedor_mapa .lugares ul{
+    width: 100%;
+    height: 100%;
+    list-style: none;
+    padding: 0;
+}
+.contenedor_mapa .lugares ul li{
+    height: auto;
+    font-weight: 700;
+}
+.contenedor_mapa .lugares .lista-lugares li span{
+    font-size: 22px;
+}
+.contenedor_mapa .lugares .lista-lugares li span.numLista{
+    font-size: 20px;
+    color: var(--rojo-letra);
+}
+.contenedor_mapa .lugares .lista-lugares li p{
+    color: var(--gris-letra);
+    font-size: 13px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-weight: 300;
+}
+
+.btnLista {
+    cursor: pointer;
+}
+
+footer{
+    padding-bottom: 20px;
+}
+footer .contenedor_footer{
+    height: 40px;
+    margin-top: 30px;
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+footer .contenedor_footer figcaption{
+    margin-left: 10px;
+}
+footer .parrafos_footer{
+
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+footer .parrafos_footer p{
+    font-size: 10px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-weight: 400;
+}
+footer .parrafos_footer p span, a{
+    text-decoration: none;
+    color: var(--rojo-letra);
+}
+
+
+#pac-card {
+      background-color: #fff;
+      border-radius: 2px 0 0 2px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+      box-sizing: border-box;
+      margin: 10px 10px 0 0;
+      -moz-box-sizing: border-box;
+      outline: none;
+    }
+
+    #pac-container {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      margin-right: 12px;
+    }
+
+    #pac-input {
+      background-color: #fff;
+      font-size: 15px;
+      font-weight: 300;
+      margin-left: 12px;
+      padding: 0 11px 0 13px;
+      text-overflow: ellipsis;
+      width: 400px;
+    }
+
+    #pac-input:focus {
+      border-color: #4d90fe;
+    }
+
+    #title {
+      color: #fff;
+      background-color: #acbcc9;
+      font-size: 18px;
+      font-weight: 400;
+      padding: 6px 12px;
+    }
+
+    /* Styling for an info pane that slides out from the left.
+     * Hidden by default. */
+    #panel {
+      height: 100%;
+      width: null;
+      background-color: white;
+      position: fixed;
+      z-index: 1;
+      overflow-x: hidden;
+      transition: all .2s ease-out;
+    }
+
+    .open {
+      width: 100%;
+    }
+
+    .place {
+      font-size: 1.2em;
+      font-weight: 500;
+      margin-block-end: 0px;
+      padding-left: 18px;
+      padding-right: 18px;
+    }
+
+    .distanceText {
+      color: silver;
+      font-size: 1em;
+      font-weight: 400;
+      margin-block-start: 0.25em;
+      padding-left: 18px;
+      padding-right: 18px;
+    }
+
+
