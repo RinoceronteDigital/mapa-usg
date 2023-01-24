@@ -7707,6 +7707,27 @@
 				"cp":"",
 				"storeid":"415"
 			}
+		},
+		{
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-100.4455101,
+					20.6973025
+				]
+			},
+			"type":"Feature",
+			"properties":{
+				"distribuidor":"Diza Arquitectos I2 Sa De Cv",
+				"direccion":"AV. SANTA FE No. 118 INT. 28 JURIQUILLA SANTA FE C.P. 76230 QUERETARO, QUERETARO.",
+				"category":"patisserie",
+				"hours":"L - V 09:00 am - 06:00 pm S 09:00 am - 01:00 pm",
+				"description":"Tableros, Metales, Durock, Securock, Metales, Plafones, Suspension, Yeso, Adhesivos, Otros",
+				"name":"Sucursal USG Querétaro Matriz",
+				"phone":"(442) 867-9165",
+				"cp":"Querétaro",
+				"storeid":"416"
+			}
 		}
 	]
 }
