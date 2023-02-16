@@ -130,7 +130,7 @@ $pagina='home';
     
 </script>
     <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAlCQwGWkDu5MY1QoqwAHi3diQbPNhKkfU&libraries=places&callback=initMap">
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBLJ5K6Tbo8M87mpFlKsbDECfhha0V2WxM&libraries=places&callback=initMap">
     </script>
 </body>
 </html>
